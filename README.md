@@ -2,6 +2,8 @@
 
 > "Find the flag, break the system, understand the machine."
 
+![terminal](https://img.shields.io/badge/Terminal-H4CK3R-green?style=for-the-badge)
+
 ### 🟢 CTF Player | Cybersecurity Enthusiast | Reverse Engineer Junior
 
 ---
