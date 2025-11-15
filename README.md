@@ -1,6 +1,6 @@
 # > Hey, I'm ir0nx
 # 💀 CTF Player | Cybersec Enthusiast | Reverse Engineer Junior
-> "Understand the machine, break the system, find the flag."
+> "Understand the machine, break the system, find the flag, submit."
 
 ## 🧩 CTF & Cyber Skills
 
