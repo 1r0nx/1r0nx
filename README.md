@@ -4,8 +4,6 @@
 
 ### 🟢 CTF Player | Cybersecurity Enthusiast | Reverse Engineer Junior
 
----
-
 ## 🧩 CTF & Cyber Skills
 
 - 🛠 **Reverse Engineering:** Ghidra, gdb, pwntools
@@ -17,13 +15,13 @@
 ## 🧪 Programming Languages & Tools
 
 ### 🔤 Languages
-- 🐍 **Python** — scripting, automation, crypto challenges, exploitation  
-- 🧱 **C#** — tooling, Windows internals, payloads  
+- 🐍 **Python** — scripting, automation
+- 🧱 **C#** — tooling, payloads  
 - ⚙️ **C++** — performance, reverse engineering, low-level stuff  
 - 🐚 **Bash** — automation, CTF utilities, Linux mastery
   
 ### 🖥️ OS & Tooling
-- 🐧 **Linux** (Arch/Kali/Ubuntu) — daily driver, pentest environment  
+- 🐧 **Linux** (Kali/Ubuntu) — pentest environment  
 - 🍃 **Git** — version control, clean workflows
 
 
@@ -38,7 +36,7 @@
 
 ## 💬 Contact
 
-- 💼 **LinkedIn:** [jude-balar](https://www.linkedin.com/in/jude-balaro/)  
+- 💼 **LinkedIn:** [ir0nx](https://www.linkedin.com/in/jude-balaro/)  
 - 💬 **Discord:** `ir0nx`
 
 
