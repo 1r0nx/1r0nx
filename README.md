@@ -2,15 +2,15 @@
 
 > "Find the flag, break the system, understand the machine."
 
-### 🟢 Cybersecurity Enthusiast | CTF Player | Reverse Engineer
+### 🟢 CTF Player | Cybersecurity Enthusiast | Reverse Engineer Junior
 
 ---
 
 ## 🧩 CTF & Cyber Skills
 
-- 🛠 **Reverse Engineering:** Ghidra, Radare2, x64dbg  
+- 🛠 **Reverse Engineering:** Ghidra, gdb, pwntools
 - 🔐 **Cryptography:** RSA, AES, weird custom crypto challenges   
-- 📡 **Pwn / Binary Exploitation:** Buffer overflow, ROP, format strings  
+- 📡 **Pwn / Binary Exploitation:** Buffer overflow, format strings, ROP
 
 ---
 
@@ -23,20 +23,10 @@
 
 ---
 
-<h2 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
 ## 💻 Current Projects
 
-- 🟡 Learning Reverse Engineering (ghidra, gdb, gef)   
+- 🟡 Learning Reverse Engineering (ghidra, gdb, gef)
+- 🟡 Writting custom scripts
 
 ---
 
