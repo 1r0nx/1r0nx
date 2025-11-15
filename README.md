@@ -1,4 +1,4 @@
-# 👾 Hey, I'm ir0nx
+# $ Hey, I'm ir0nx
 
 > "Find the flag, break the system, understand the machine."
 
