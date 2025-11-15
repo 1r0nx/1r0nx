@@ -2,8 +2,6 @@
 
 > "Find the flag, break the system, understand the machine."
 
-![terminal](https://img.shields.io/badge/Terminal-H4CK3R-green?style=for-the-badge)
-
 ### 🟢 CTF Player | Cybersecurity Enthusiast | Reverse Engineer Junior
 
 ---
@@ -16,12 +14,18 @@
 
 ---
 
-## 🔬 Tools I Use / Build
+## 🧪 Programming Languages & Tools
 
-- 🔍 Python scripts for reversing  
-- 🧬 CTF utilities (pk-crack, steg tools, encoders/decoders)  
-- ⚙️ Custom wordlists  
-- 🔊 Keyboard sound scripts on Linux  
+### 🔤 Languages
+- 🐍 **Python** — scripting, automation, crypto challenges, exploitation  
+- 🧱 **C#** — tooling, Windows internals, payloads  
+- ⚙️ **C++** — performance, reverse engineering, low-level stuff  
+- 🐚 **Bash** — automation, CTF utilities, Linux mastery
+  
+### 🖥️ OS & Tooling
+- 🐧 **Linux** (Arch/Kali/Ubuntu) — daily driver, pentest environment  
+- 🍃 **Git** — version control, clean workflows
+
 
 ---
 
@@ -34,5 +38,7 @@
 
 ## 💬 Contact
 
-- 📫 Discord: `1r0nx`
+- 💼 **LinkedIn:** [jude-balar](https://www.linkedin.com/in/jude-balaro/)  
+- 💬 **Discord:** `ir0nx`
+
 
