@@ -1,8 +1,7 @@
-# $ Hey, I'm ir0nx
-
-> "Find the flag, break the system, understand the machine."
+# > Hey, I'm ir0nx
 
 # 💀 CTF Player | Cybersec Enthusiast | Reverse Engineer Junior
+> "Find the flag, break the system, understand the machine."
 
 ## 🧩 CTF & Cyber Skills
 
