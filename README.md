@@ -2,7 +2,7 @@
 
 > "Find the flag, break the system, understand the machine."
 
-# 🟢 CTF Player | Cybersec Enthusiast | Reverse Engineer Junior
+# >_ CTF Player | Cybersec Enthusiast | Reverse Engineer Junior
 
 ## 🧩 CTF & Cyber Skills
 
