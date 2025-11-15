@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=1r0nx&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1r0nx&layout=compact&theme=merko)
 
 ---
 
