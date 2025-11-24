@@ -1,5 +1,5 @@
 ## 🚀 Featured Projects
 
 ### 🛠 Unveil
-Outil d'analyse automatique basé sur le type de fichier.  
-🔗 https://github.com/1r0nx/unveil
+Tool to analyse a file by running commands based on file type
+🔗 [unveil](https://github.com/1r0nx/unveil)
