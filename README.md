@@ -8,3 +8,6 @@ Tool to perform brute-force attacks on common substitution ciphers
 
 ### ⚙️ [numshift](https://github.com/1r0nx/numshift)
 Tool that converts numbers between multiple numeral systems
+
+### ⚙️ [num2text](https://github.com/1r0nx/num2text)
+Tool collection to convert numbers into text
