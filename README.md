@@ -1,13 +1,15 @@
 ## 🔧 My Projects
 
 ### ⚙️ [unveil](https://github.com/1r0nx/unveil)
-Tool to analyse a file by running commands based on file type
+CLI Tool to analyse a file by running commands based on file type
 
 ### ⚙️ [aletheia](https://github.com/1r0nx/aletheia)
-Tool to decode of perform brute-force attacks on common substitution ciphers
+CLI Tool to decode of perform brute-force attacks on common substitution ciphers
 
 ### ⚙️ [numshift](https://github.com/1r0nx/numshift)
-Tool that converts numbers between multiple numeral systems (bin/oct/dec/hex)
+CLI Tool that converts numbers between multiple numeral systems (bin/oct/dec/hex)
 
 ### ⚙️ [num2text](https://github.com/1r0nx/num2text)
-Tool collection to convert bin/oct/ascii/hex into text
+CLI Tool collection to convert bin/oct/ascii/hex into text
+
+
