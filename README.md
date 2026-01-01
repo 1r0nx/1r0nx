@@ -4,10 +4,10 @@
 Tool to analyse a file by running commands based on file type
 
 ### ⚙️ [aletheia](https://github.com/1r0nx/aletheia)
-Tool to perform brute-force attacks on common substitution ciphers
+Tool to decode of perform brute-force attacks on common substitution ciphers
 
 ### ⚙️ [numshift](https://github.com/1r0nx/numshift)
-Tool that converts numbers between multiple numeral systems
+Tool that converts numbers between multiple numeral systems (bin/oct/dec/hex)
 
 ### ⚙️ [num2text](https://github.com/1r0nx/num2text)
-Tool collection to convert numbers into text
+Tool collection to convert bin/oct/ascii/hex into text
