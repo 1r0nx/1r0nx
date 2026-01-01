@@ -4,7 +4,7 @@
 CLI Tool to analyse a file by running commands based on file type
 
 ### ⚙️ [aletheia](https://github.com/1r0nx/aletheia)
-CLI Tool to decode of perform brute-force attacks on common substitution ciphers
+CLI Tool to decode of perform brute-force attacks on common ciphers
 
 ### ⚙️ [morrse](https://github.com/1r0nx/morrse)
 CLI Tool to encode text in morse and decode morse code
