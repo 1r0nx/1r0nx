@@ -3,6 +3,9 @@
 ### ⚙️ [unveil](https://github.com/1r0nx/unveil)
 CLI Tool to analyse a file by running commands based on file type
 
+### ⚙️ [solve-steg](https://github.com/1r0nx/solve-steg)
+CLI Tool to generate multiple image transformations for steg analysis (bit planes, color channels, lsb data...)
+
 ### ⚙️ [aletheia](https://github.com/1r0nx/aletheia)
 CLI Tool to decode of perform brute-force attacks on common ciphers
 
