@@ -6,6 +6,9 @@ CLI Tool to analyse a file by running commands based on file type
 ### ⚙️ [aletheia](https://github.com/1r0nx/aletheia)
 CLI Tool to decode of perform brute-force attacks on common ciphers
 
+### ⚙️ [shatter](https://github.com/1r0nx/shatter)
+CLI RSA attack toolkit
+
 ### ⚙️ [baseXX](https://github.com/1r0nx/baseXX)
 CLI Tool to convert encoded string automatically through various base encoding system
 
