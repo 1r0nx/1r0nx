@@ -12,6 +12,9 @@ CLI RSA attack toolkit
 ### ⚙️ [baseXX](https://github.com/1r0nx/baseXX)
 CLI Tool to convert encoded string automatically through various base encoding system
 
+### ⚙️ [baseXXdump](https://github.com/1r0nx/baseXXdump)
+CLI Tool to dump encoded string automatically from file
+
 ### ⚙️ [num2text](https://github.com/1r0nx/num2text)
 CLI Tool collection to convert bin/oct/ascii/hex into text
 
