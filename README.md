@@ -1,6 +1,6 @@
 ## 🔧 My Projects
 
-### [flagship](https://github.com/1r0nx/flagship)
+### ⚙️ [flagship](https://github.com/1r0nx/flagship)
 TUI for any CTFd-based CTFs 
 
 ### ⚙️ [unveil](https://github.com/1r0nx/unveil)
