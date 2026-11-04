@@ -92,7 +92,10 @@ Small, focused CLI tools that automate the repetitive parts of CTF challenges.
 
 - **CRTA** (Certified Red Team Analyst) — CyberWarfareLabs · *2026*
 
-**🌍 Languages** — 🇫🇷 French (native) · 🇬🇧 English (B1) · 🇷🇺 Russian (B1)
+## 🌍 Languages
+- 🇫🇷 French (native) 
+- 🇬🇧 English (B1)
+- 🇷🇺 Russian (B1)
 
 ---
 
