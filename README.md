@@ -82,9 +82,8 @@ Small, focused CLI tools that automate the repetitive parts of CTF challenges.
 | **Offensive security** | Pentest methodology & reporting, Nmap, Burp Suite, Metasploit, OWASP Top 10, Active Directory (GOAD lab), Exegol |
 | **Forensics & DFIR** | Volatility 3, Wireshark, Windows registry analysis, Procmon, KAPE, Zimmerman tools, Autopsy, FTK Imager, MITRE ATT&CK |
 | **Cryptography** | RSA attacks, classical ciphers, encodings |
-| **Networking** | MikroTik routers, enterprise firewalls (filtering, NAT, segmentation), network monitoring |
 | **Programming** | Python, C/C++, Bash |
-| **Systems & infra** | Linux (CachyOS/Arch), Windows, Docker, Kubernetes, VMware homelab |
+| **Systems & infra** | Linux (CachyOS/Arch), Docker, Kubernetes, VMware homelab, Windows |
 
 ---
 
