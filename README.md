@@ -33,7 +33,7 @@ Member of [**M4G1K-SQ4D**](https://github.com/M4G1K-SQ4D) · favorite categories
 | Event | Year | Team | Result |
 |---|---|---|---|
 | **SADC** | 2025 | We are legion | 4 / 68 |
-| **HackerLab** (ANSSI Benin) | 2026 | We are legion | **Finalist** (qualifiers: 17 / 321) |
+| **HackerLab qualifiers** (ANSSI Benin) | 2026 | We are legion | 17 / 321 |
 | **hiCTF** | 2026 | M4G1K-SQ4D | 121 / 1119 |
 
 [![Root-Me](https://img.shields.io/badge/Root--Me-ir0nx-E00000?style=flat-square&logo=root-me&logoColor=white)](https://www.root-me.org/ir0nx-663423)
