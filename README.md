@@ -18,8 +18,8 @@
 
 ```console
 $ whoami
-Cybersecurity student from Benin 🇧🇯 — offensive security & DFIR.
-I play CTFs (crypto, pwn, forensics), build CLI tools to automate
+Cybersecurity student from Benin 🇧🇯
+I play CTFs (crypto, pwn, forensics, DFIR), build CLI tools to automate
 the boring parts, and document everything in write-ups.
 
 ```
