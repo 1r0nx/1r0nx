@@ -70,7 +70,7 @@ Small, focused CLI tools that automate the repetitive parts of CTF challenges.
 ### 📝 Write-ups
 | Project | Description |
 |---|---|
-| [**CTFs-Write-up-s**](https://github.com/1r0nx/CTFs-Write-up-s) | CTF challenge write-ups |
+| [**CTFs-Write-ups-Database**](https://github.com/1r0nx/CTFs-Write-ups-Database) | CTF challenge write-ups |
 | [**GOAD-write-ups**](https://github.com/1r0nx/GOAD-write-ups) | Active Directory attack paths on the GOAD lab |
 
 ---
